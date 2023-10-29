@@ -1,0 +1,41 @@
+body{
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 16px;
+}
+h1{
+    font-family: "FSP DEMO - Integral CF Heavy";
+    font-size: 66px;
+}
+h2{
+    font-family: "FSP DEMO - Integral CF Heavy";
+}
+h3{
+    font-family: "FSP DEMO - Integral CF Heavy";
+}
+
+@media (max-width: 600px){
+    .phone{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+button{
+    font-family: "Helvetica', Arial, sans-serif";
+    color: white;
+    background-color: #e31837;
+    border: none;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    
+}
+a:hover {
+    color: #e31837; /* Change the color to red on hover */
+  }
+
